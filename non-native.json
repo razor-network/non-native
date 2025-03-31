@@ -1,38 +1,22 @@
 {
   "17000": {
-    "RequestHandler": "0x83076938775772dEf277Af9Bc550f251901Be0Ac",
-    "RequestHandlerImplementation": "0x144dCBE7f1E564BF066630651ee3Cc60E9B76BBe",
-    "RequestProxyAdmin": "0x29ce004f40778751579AF8088e3520078287e890",
+    "RequestHandler": "0xa5A616945F041FA9526307Ae123AA7a20Ba1A1EB",
+    "ResultProxy": "0xA390E87E80cD0689c20Bd9C787282c8A44F63efb",
     "rpc": "https://ethereum-holesky.publicnode.com"
   },
   "84532": {
-    "RequestHandler": "0xF0d40D3F4eEB22Ce9B52d196cBA91988A1cf0554",
-    "RequestHandlerImplementation": "0xD7D17A922b46fEC090663c63AF33669d48d64D2c",
-    "RequestProxyAdmin": "0x3a6823Fca21539c4099B90e18eaF6fb4151b643F",
+    "RequestHandler": "0x83110522e0D303fC4Cc4Fe4b7A1269FBB2145C0E",
+    "ResultProxy": "0x5A834Efd5F2b31fD21eC5a916818b4b3BAeE6D1A",
     "rpc": "https://base-sepolia-rpc.publicnode.com"
   },
   "11155420": {
-    "RequestHandler": "0x2c9214a341d7bb5B520b56c084bB209db4742124",
-    "RequestHandlerImplementation": "0x0E90960ee8CEb7eE7b4511A0fb78879e5BbbC8b3",
-    "RequestProxyAdmin": "0xDdbD0fc0EE63C14F1aa9b0b2625e3589DbFDb600",
+    "RequestHandler": "0x9deA9a4400d696a3568DCD1183D39271f8dEEbeA",
+    "ResultProxy": "0x362dF9E90c00138507E7BFC96299228552700555",
     "rpc": "https://sepolia.optimism.io"
   },
-  "421614": {
-    "RequestHandler": "0x84B6995C84C09C4De27643E10Ce79bfE3C57C373",
-    "RequestHandlerImplementation": "0x28a200d46Aa9c4C70788d545daad0830cBaae4d9",
-    "RequestProxyAdmin": "0xDaF556e9118343F5A243EcDD6F117c19292Fe6Ed",
-    "rpc": "https://sepolia-rollup.arbitrum.io/rpc"
-  },
-  "80002": {
-    "RequestHandler": "0xAF17822CA352FEbC58De9A54c1390D4770332f98",
-    "RequestHandlerImplementation": "0x55865D77a70e017C758763ed621Ea2A9293657F0",
-    "RequestProxyAdmin": "0x36b309a9D1404a7B2Ae3429742F2967EF861606E",
-    "rpc": "https://rpc-amoy.polygon.technology/"
-  },
   "11155111": {
-    "RequestHandler": "0x4B4ddA2Cc644Eb3d92D0d7a9187970adB574C61E",
-    "RequestHandlerImplementation": "0x335b9A41Aa65f18BfE6A0908a2530486710eBb89",
-    "RequestProxyAdmin": "0x659D08679Ac4BFa4B67859b8167B7cCC6B7BF488",
+    "RequestHandler": "0x19c7994E886f72631b5788c70e150e0C90BbAe73",
+    "ResultProxy": "0x0C6B832F247BffD276282240e3Bd8D6B218AdB30",
     "rpc": "https://eth-sepolia.public.blastapi.io"
   }
 }
